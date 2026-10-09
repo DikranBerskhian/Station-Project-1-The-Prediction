@@ -1,0 +1,11 @@
+{
+  "features": {
+    "total_bill": 30.0,
+    "size": 4,
+    "sex": "Female",
+    "smoker": "No",
+    "day": "Sun",
+    "time": "Dinner"
+  },
+  "predicted_tip_dollars": 4.228329064117916
+}

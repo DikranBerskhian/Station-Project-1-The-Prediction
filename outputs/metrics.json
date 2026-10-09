@@ -1,0 +1,13 @@
+{
+  "train_r2": 0.44524209546033433,
+  "test_r2": 0.5185656337107039,
+  "test_mae_dollars": 0.7665074194589535,
+  "test_rmse_dollars": 1.0830525484338127,
+  "baseline_test_r2": -0.010736047217692724,
+  "baseline_test_mae_dollars": 1.148265306122449,
+  "cv_mean_r2": 0.3615857632523599,
+  "cv_std_r2": 0.0734324059161383,
+  "cv_mean_mae_dollars": 0.7697392192817659,
+  "train_rows": 194,
+  "test_rows": 49
+}

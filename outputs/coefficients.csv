@@ -1,0 +1,9 @@
+feature,coefficient
+numeric__total_bill,0.08548255075767609
+numeric__size,0.21098949919688215
+categorical__sex_Male,0.01816202465909387
+categorical__smoker_Yes,-0.052130203452688824
+categorical__day_Sat,0.10328304767248439
+categorical__day_Sun,0.16778206375137744
+categorical__day_Thur,-0.04983176082266447
+categorical__time_Lunch,0.19466940708001096
